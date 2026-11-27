@@ -5,7 +5,7 @@
     {
       "name": "video-memory",
       "description": "Save the transcript of a YouTube, Instagram or Facebook video and turn it into a structured note.",
-      "source": { "source": "github", "repo": "estebanG2003/video-memory" }
+      "source": { "source": "url", "url": "https://github.com/estebanG2003/video-memory.git" }
     }
   ]
 }
