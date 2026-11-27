@@ -8,9 +8,9 @@
       "source": { "source": "url", "url": "https://github.com/estebanG2003/video-memory.git" }
     },
     {
-      "name": "file-search",
+      "name": "library",
       "description": "Find any file by what's inside it or its name and open it, or ask a question across your files and saved videos.",
-      "source": { "source": "url", "url": "https://github.com/estebanG2003/file-search.git" }
+      "source": { "source": "url", "url": "https://github.com/estebanG2003/library.git" }
     }
   ]
 }
